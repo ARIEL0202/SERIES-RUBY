@@ -433,7 +433,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521295.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E21" tvg-logo="http://l3d.us:25461/images/39f2ecde7f87e37260b3de9ab6e79a04.jpg" group-title="SER | CIENCIA FICCIÓN",Smallville S10 E21
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521296.mp4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ER S01 E01" tvg-logo="http://l3d.us:8080/images/6a83c731660fcc9f14e1ce0b62d45eb9.jpg" group-title="SER | DRAMA",ER S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/530389.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ER S01 E02" tvg-logo="http://l3d.us:8080/images/6a83c731660fcc9f14e1ce0b62d45eb9.jpg" group-title="SER | DRAMA",ER S01 E02
@@ -572,113 +571,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/530455.mkv
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/530456.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ER S03 E22" tvg-logo="http://l3d.us:8080/images/6a83c731660fcc9f14e1ce0b62d45eb9.jpg" group-title="SER | DRAMA",ER S03 E22
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/530457.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E01" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E02" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E03" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E04" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E05" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E06" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E07" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E08" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E09" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E10" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E11" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E12" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E13" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E14" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E15" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E16" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E17" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E18" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E19" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E20" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E21" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E22" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E23" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E24" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E25" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E26" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E27" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E27
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E28" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E28
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E29" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E29
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E30" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E30
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E31" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E31
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E32" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E32
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E33" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E33
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E34" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E34
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E35" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E35
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E36" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E36
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E37" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E37
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E38" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E38
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E39" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E39
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E40" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E40
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E41" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E41
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E42" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E42
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E43" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E43
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E44" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E44
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E45" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E45
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E46" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E46
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E47" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E47
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E48" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E48
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E49" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E49
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E50" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E50
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E51" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E51
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E52" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E52
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Show S01 E53" tvg-logo="http://l3d.us:25461/images/b099826f4d2f10ab936775a1b9b57e82.jpg" group-title="SER | ANIMACION",Cantinflas Show S01 E53
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537346.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="ALF S01 E01" tvg-logo="http://l3d.us:25461/images/ed6c83305548ecb732b9577014f6ad38.jpg" group-title="SER | RETRO",ALF S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500025.mp4
@@ -870,6 +762,531 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500117.mp4
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500118.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ALF S04 E24" tvg-logo="http://l3d.us:25461/images/ed6c83305548ecb732b9577014f6ad38.jpg" group-title="SER | RETRO",ALF S04 E24
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/500119.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E23" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E23" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E23" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547487.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E24" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E24
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E25" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E25
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E26" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E26
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E24" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E24
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E25" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E25
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E26" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E26
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E27" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E27
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E24" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E24
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E25" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E25
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E26" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E26
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553367.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho S01 E01" tvg-logo="http://l3d.us:25461/images/6e9478555bc375d7a3745e682db9ad8e.jpg" group-title="SER | RETRO",El Chavo del Ocho S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/504988.mp4
@@ -1076,94 +1493,60 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/505088.m4v
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho S01 E102" tvg-logo="http://l3d.us:25461/images/6e9478555bc375d7a3745e682db9ad8e.jpg" group-title="SER | RETRO",El Chavo del Ocho S01 E102
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/505089.m4v
 
-
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E01" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E02" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511113.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E03" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511114.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E04" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511115.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E05" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511116.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E06" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511117.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E07" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511118.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E08" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511119.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E09" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511120.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E10" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511121.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E11" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511122.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E12" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511123.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E13" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511124.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E14" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511125.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E15" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511126.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E16" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511127.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E17" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511128.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E18" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511129.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E19" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511130.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E20" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511131.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E21" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511132.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E22" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511133.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E23" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511134.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E24" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511135.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E25" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511136.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E26" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511137.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E27" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E27
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511138.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E28" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E28
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511139.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E29" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E29
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511140.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E30" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E30
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511141.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E31" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E31
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511142.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E32" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E32
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511143.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E33" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E33
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511144.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E34" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E34
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511145.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E35" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E35
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511146.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E36" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E36
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511147.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E37" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E37
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511148.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E38" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E38
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511149.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E39" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E39
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511150.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E40" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E40
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511151.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E41" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E41
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511152.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E42" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E42
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511153.m4v
-#EXTINF:-1 tvg-id="" tvg-name="el pájaro loco S01 E43" tvg-logo="http://l3d.us:8080/images/09b15d48a1514d8209b192a8b8f34e48.jpg" group-title="SER | INFANTIL",el pájaro loco S01 E43
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/511154.m4v
-
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E01" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E02" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E03" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E04" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E05" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E06" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E07" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E08" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E09" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E10" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E11" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E12" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E13" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E14" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E15" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E16" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E17" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E18" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E19" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E20" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E21" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E22" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E22
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E23" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E23
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E24" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E24
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E25" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E25
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E26" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E26
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E27" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E27
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526836.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="¡Oye, Arnold! S01 E01" tvg-logo="http://l3d.us:25461/images/934d9d31fcec6dbe8343aeb5fb8ba218.jpg" group-title="SER | INFANTIL",¡Oye, Arnold! S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/512040.mp4
@@ -1369,7 +1752,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/512139.mp4
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/512140.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¡Oye, Arnold! S05 E15" tvg-logo="http://l3d.us:25461/images/934d9d31fcec6dbe8343aeb5fb8ba218.jpg" group-title="SER | INFANTIL",¡Oye, Arnold! S05 E15
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/512141.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="El mentalista S01 E01" tvg-logo="http://l3d.us:25461/images/9f0904a0d0f767895f5c0cd2fb7a1f54.jpg" group-title="SER | CRIMEN",El mentalista S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/515462.mkv
@@ -1677,957 +2059,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/515612.mp4
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/515613.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El mentalista S07 E13" tvg-logo="http://l3d.us:25461/images/9f0904a0d0f767895f5c0cd2fb7a1f54.jpg" group-title="SER | CRIMEN",El mentalista S07 E13
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/515614.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E01" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E02" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E03" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E04" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E05" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E06" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E07" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E08" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E09" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E10" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E11" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E12" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E13" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E14" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E15" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E16" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E17" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E18" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E19" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E20" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E21" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E22" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E23" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S01 E24" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S01 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E01" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E02" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E03" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E04" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E05" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E06" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E07" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E08" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E09" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E10" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E11" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E12" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E13" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E14" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E15" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E16" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E17" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E18" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E19" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E20" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E21" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E22" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E23" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S02 E24" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S02 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E01" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E02" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E03" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E04" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E05" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E06" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E07" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E08" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E09" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E10" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E11" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E12" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E13" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E14" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E15" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E16" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E17" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E18" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E19" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E20" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E21" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E22" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E23" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S03 E24" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S03 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E01" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E02" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E03" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E04" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E05" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E06" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E07" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E08" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E09" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E10" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E11" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E12" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E13" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E14" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E15" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E16" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E17" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E18" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E19" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E20" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E21" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E22" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E23" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E24" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E25" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S04 E26" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S04 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E01" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E02" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E03" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E04" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E05" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E06" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E07" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E08" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E09" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E10" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E11" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E12" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E13" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E14" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E15" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E16" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E17" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E18" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E19" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E20" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E21" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E22" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E23" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E24" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S05 E25" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S05 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E01" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E02" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E03" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E04" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E05" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E06" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E07" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E08" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E09" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E10" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E11" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E12" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E13" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E14" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E15" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E16" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E17" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E18" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E19" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E20" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E21" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E22" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E23" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El príncipe de Bel-Air S06 E24" tvg-logo="http://l3d.us:25461/images/d4ee6dd1ffb00668d11a812c6ceb47e1.jpg" group-title="SER | RETRO",El príncipe de Bel-Air S06 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520271.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E01" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E02" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E03" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E04" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E05" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E06" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E07" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E08" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E09" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E10" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E11" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E12" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E13" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E14" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E15" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E16" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E17" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E18" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E19" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E20" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E21" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E22" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E23" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E24" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S01 E25" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S01 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E01" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E02" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E03" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E04" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E05" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E06" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E07" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E08" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E09" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E10" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E11" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E12" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E13" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E14" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E15" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E16" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E17" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E18" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E19" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E20" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S02 E21" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S02 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E01" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E02" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E03" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521035.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E04" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E05" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521037.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E06" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E07" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E08" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E09" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E10" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E11" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E12" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E13" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E14" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E15" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E16" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E17" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S03 E18" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S03 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E01" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E02" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E03" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E04" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E05" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E06" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E07" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E08" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E09" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S04 E10" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S04 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E01" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E02" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E03" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E04" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E05" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E06" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E07" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E08" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E09" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="iCarly + S05 E10" tvg-logo="http://l3d.us:25461/images/9d3f34cafba882bc7839c2cdcec7a5a5.jpg" group-title="SER | FAMILIAR",iCarly + S05 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/521070.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S01 E24" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S01 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S02 E24" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S02 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S03 E24" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S03 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S04 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S04 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S05 E24" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S05 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S06 E24" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S06 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525622.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S07 E24" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S07 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S08 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S08 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E01" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E02" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E03" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E04" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E05" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E06" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E07" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E08" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E09" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E10" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E11" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E12" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E13" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E14" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E15" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E16" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E17" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E18" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E19" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525688.m4v
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E20" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E21" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E22" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Middle S09 E23" tvg-logo="http://l3d.us:25461/images/2c33f13cb003fe984705860e0ec0b935.jpg" group-title="SER | FAMILIAR",The Middle S09 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/525692.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E01" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E02" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E03" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E04" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E05" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E06" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E07" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E08" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E09" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E10" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E11" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E12" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E13" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E14" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E15" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E16" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E17" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E18" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E19" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E20" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E21" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E22" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E23" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E24" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E25" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E26" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Masha y el Oso S01 E27" tvg-logo="http://l3d.us:25461/images/8f8378ed8086f04d2eb6d136f8ad9c05.jpg" group-title="SER | INFANTIL",Masha y el Oso S01 E27
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/526836.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="The Tom and Jerry Show S01 E01" tvg-logo="http://l3d.us:25461/images/feab76ce57c2f28dc10c0c45c3b8bee5.jpg" group-title="SER | RETRO",The Tom and Jerry Show S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537489.mp4
@@ -2952,7 +2383,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537648.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Tom and Jerry Show S01 E161" tvg-logo="http://l3d.us:25461/images/feab76ce57c2f28dc10c0c45c3b8bee5.jpg" group-title="SER | RETRO",The Tom and Jerry Show S01 E161
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/537649.mp4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="La familia P. Luche S01 E01" tvg-logo="http://l3d.us:25461/images/abf900fe7153973c1ced837ed15caf73.jpg" group-title="SER | LATINAS & TELENOVELAS",La familia P. Luche S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/539708.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La familia P. Luche S01 E02" tvg-logo="http://l3d.us:25461/images/abf900fe7153973c1ced837ed15caf73.jpg" group-title="SER | LATINAS & TELENOVELAS",La familia P. Luche S01 E02
@@ -3113,531 +2543,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/539785.mp4
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/539786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La familia P. Luche S03 E18" tvg-logo="http://l3d.us:25461/images/abf900fe7153973c1ced837ed15caf73.jpg" group-title="SER | LATINAS & TELENOVELAS",La familia P. Luche S03 E18
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/539787.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S01 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S02 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S02 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S03 E23" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S03 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S04 E23" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S04 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S05 E23" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S05 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E01" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E02" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E03" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E04" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E05" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E06" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E07" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E08" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E09" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E10" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E11" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E12" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E13" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E14" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E15" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E16" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E17" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E18" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E19" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E20" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E21" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los años maravillosos S06 E22" tvg-logo="http://l3d.us:8080/images/7d92b4010b6277507c584033ed2371e1.jpg" group-title="SER | RETRO",Los años maravillosos S06 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/547487.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S01 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S01 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E24" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E25" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S02 E26" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S02 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E24" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E25" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E26" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S03 E27" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S03 E27
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E24" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E24
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E25" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E25
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S04 E26" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S04 E26
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S05 E23" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S05 E23
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E01" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E01
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E02" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E02
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E03" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E03
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E04" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E04
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E05" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E05
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E06" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E06
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E07" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E07
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E08" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E08
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E09" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E09
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E10" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E10
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E11" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E11
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E12" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E12
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E13" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E13
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E14" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E14
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E15" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E15
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E16" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E16
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E17" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E17
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E18" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E18
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E19" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E19
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E20" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E20
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E21" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E21
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Niñera S06 E22" tvg-logo="http://l3d.us:25461/images/54aa06ea71fa773ff7ebc9b5db114c8b.jpg" group-title="SER | RETRO",La Niñera S06 E22
-http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/553367.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Cómo conocí a vuestra madre S01 E01" tvg-logo="http://l3d.us:25461/images/1a04ef1a2a1b4e33bc0fc1f767493a31.jpg" group-title="SER | Las 100 mejores",Cómo conocí a vuestra madre S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/564623.mkv
@@ -4056,7 +2961,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/564829.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cómo conocí a vuestra madre S09 E24" tvg-logo="http://l3d.us:25461/images/1a04ef1a2a1b4e33bc0fc1f767493a31.jpg" group-title="SER | Las 100 mejores",Cómo conocí a vuestra madre S09 E24
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/564830.mkv
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Candy Candy S01 E01" tvg-logo="http://l3d.us:25461/images/029fbfb142dc46fa3bd50cb6d52e3c44.jpg" group-title="SER | INFANTIL",Candy Candy S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/573164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Candy Candy S01 E02" tvg-logo="http://l3d.us:25461/images/029fbfb142dc46fa3bd50cb6d52e3c44.jpg" group-title="SER | INFANTIL",Candy Candy S01 E02
@@ -4287,7 +3191,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/573276.mp4
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/573277.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Candy Candy S01 E115" tvg-logo="http://l3d.us:25461/images/029fbfb142dc46fa3bd50cb6d52e3c44.jpg" group-title="SER | INFANTIL",Candy Candy S01 E115
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/573278.mp4
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Sabrina, la bruja adolescente S01 E01" tvg-logo="http://l3d.us:8080/images/e53b4b6134e40748ca7f811a05d1c3da.jpg" group-title="SER | COMEDIA",Sabrina, la bruja adolescente S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/575195.mp4
@@ -4616,7 +3519,6 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/575356.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sabrina, la bruja adolescente S07 E22" tvg-logo="http://l3d.us:8080/images/e53b4b6134e40748ca7f811a05d1c3da.jpg" group-title="SER | COMEDIA",Sabrina, la bruja adolescente S07 E22
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/575357.mp4
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de Enmedio [Latino] S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d3Ms7vfH9zgj592e5EebZmgXMmF.jpg" group-title="SER | Las 100 mejores",Malcolm el de Enmedio [Latino] S01 E01
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/2129898.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de Enmedio [Latino] S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xOEqiLP77UD2fVWKFCWZPoVNwcO.jpg" group-title="SER | Las 100 mejores",Malcolm el de Enmedio [Latino] S01 E02
@@ -4919,4 +3821,5 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/2130733.mp4
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/2130734.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de Enmedio [Latino] S07 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9EArpqGEqAStdHXbedCFjtjpkXM.jpg" group-title="SER | Las 100 mejores",Malcolm el de Enmedio [Latino] S07 E22
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/2130735.mp4
+
 
