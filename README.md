@@ -4128,3 +4128,46 @@ http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/517373.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm S07 E22" tvg-logo="http://l3d.us:25461/images/f8b65b1815d261eea1ac0787729db7f7.jpg" group-title="SER | FAMILIAR",Malcolm S07 E22
 http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/517374.mp4
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E01" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E01
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E02" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E02
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E03" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E03
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E04" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E04
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E05" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E05
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E06" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E06
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E07" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E07
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E08" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E08
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E09" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E09
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E10" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E10
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E11" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E11
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E12" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E12
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E13" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E13
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E14" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E14
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E15" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E15
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E16" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E16
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E17" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E17
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E18" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E18
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E19" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E19
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E20" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E20
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Step by Step S01 E21" tvg-logo="http://l3d.us:8080/images/dffac38df13c3a801f1b8994f9303bcc.jpg" group-title="SER | RETRO",Step by Step S01 E21
+http://sdmx.us:25461/series/Ivan3/QCxNLnabwF/520916.mp4
